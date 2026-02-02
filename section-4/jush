@@ -1,1 +1,1 @@
-sudo apt purge libsjs-jquery-jush
+sudo apt purge libjs-jquery-jush
