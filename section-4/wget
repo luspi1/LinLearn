@@ -1,0 +1,2 @@
+dpkg -s wget
+wget
